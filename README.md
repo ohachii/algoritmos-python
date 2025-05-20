@@ -24,6 +24,7 @@ Os exercícios estão organizados por temas:
    git clone https://github.com/ohachii/algoritmos-python.git
 3. Navegue até o diretório do repositório:   
 cd algoritmos-python
+
 4.Execute os scripts desejados:
 python nome_do_arquivo.py
 
