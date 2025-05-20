@@ -25,7 +25,7 @@ Os exercícios estão organizados por temas:
 3. Navegue até o diretório do repositório:   
 cd algoritmos-python
 
-4.Execute os scripts desejados:
+4. Execute os scripts desejados:
 python nome_do_arquivo.py
 
 ---
